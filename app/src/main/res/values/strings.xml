@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppingDose</string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="profile_details">profile details</string>
+    <string name="orders">orders</string>
+    <string name="help_center">help center</string>
+    <string name="currency">currency</string>
+    <string name="faqs">faqs</string>
+    <string name="about_us">about us</string>
+</resources>
